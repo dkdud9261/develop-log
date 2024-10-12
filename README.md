@@ -1,8 +1,6 @@
-# BE 개발자의 현업 이슈 정리 🌟
-> 현업에서 마주한 이슈들, 간단하지만 몰라서 어려웠던 문제와 해결법, TIP들을 정리합니다~!  
-> 잘못된 내용이나 질문은 적극 알려주시면 감사하겠습니다 🙏
+# BE 개발 이슈/공부 정리 🌟
 
-## TOPICS
+**TOPICS**
 
 [![](https://img.shields.io/badge/Spring-0E8A16?style=flat)](https://github.com/dkdud9261/develop-log/labels/Spring)
 [![](https://img.shields.io/badge/Spring_Webflux-1D76DB?style=flat)](https://github.com/dkdud9261/develop-log/labels/Spring%20Webflux)
